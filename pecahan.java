@@ -6,7 +6,7 @@ public class pecahan {
 
             // Nominal Uang Yang ada di Indonesia
             int nominalUang, sisaUang;
-            int[] uang = {100000, 50000, 20000, 10000, 5000, 2000, 1000, 500, 200, 100};
+            int[] uang = {100000, 75000, 50000, 20000, 10000, 5000, 2000, 1000, 500, 200, 100};
 
             // Berapa uang yang Anda punya
             System.out.print("Masukkan nominal uang : Rp.");
